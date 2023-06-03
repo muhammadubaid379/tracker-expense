@@ -1,0 +1,517 @@
+.box{
+    height: 350px;
+    width: 100%;
+    background-color: #363545;
+    position: relative;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 14%;
+    font-size: small;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+    list-style: none;
+    color: white;
+    position: absolute;
+    right: 53%;
+    top: 2%;
+    font-family: sans-serif;
+}
+.emoji{
+    font-size: small;
+    font-family: sans-serif;
+    color: white;
+    margin: 5%;
+    position: absolute;
+    right: 82%;
+    bottom: 67%;
+}
+.happy{
+    width: 55%;
+    position: absolute;
+    left: -57%;
+    bottom: 27%;
+}
+.logos{
+    margin: 6%;
+    position: relative;
+    left: -4%;
+}
+.id{
+    color: white;
+    font-size: 225%;
+    font-family: sans-serif;
+    position: absolute;
+    right: 88%;
+    top: 14%;
+}
+.head{
+    color: white;
+    position: absolute;
+    right: 65%;
+    font-family: sans-serif;
+    font-size: 122%;
+    top: 28%;
+}
+.line{
+    height: 1%;
+    width: 11%;
+    background-color: yellow;
+    position: absolute;
+    bottom: 49%;
+    left: 8%;
+}
+.para{
+    height: auto;
+    width: 16%;
+    color:  white;
+    position: absolute;
+    bottom: 14%;
+    left: 8%;
+    font-size:smaller;
+    font-family: sans-serif;
+    line-height: 19px;
+}
+.circle{
+    background-color: #2D2D39;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    position: absolute;
+    right: 45%;
+    top: 18%;
+}
+.pic{
+    position: relative;
+    height: 130%;
+    top: -27%;
+    left: -24%;
+}
+.align{
+color: white;
+position: absolute;
+right: 46%;
+bottom: 65%;
+left: 53%;
+font-size: medium;
+font-family: sans-serif;
+}
+.param{
+    height: auto;
+    width: 17%;
+    color: white;
+    position: absolute;
+    right: 50%;
+    bottom: 49%;
+    left: 53%;
+    font-family: sans-serif
+}
+.more{
+    position: absolute;
+    right: 35%;
+    bottom: 42%;
+    left: 53%;
+    color: yellow;
+    font-family: sans-serif;
+    font-size: smaller;
+}
+.arrow{
+    width: 14%;
+    position: absolute;
+    right: 40%;
+    bottom: 25%;
+}
+.container{
+    height: auto;
+    width: 150px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    right: -52%;
+    bottom: -42%;
+}
+.icon{
+    background-color: #2C2C38;
+    height: 35px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-1{
+    background-color: #2C2C38;
+    height: 35px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-2{
+    background-color: #2C2C38;
+    height: 35px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-3{
+    background-color: #2C2C38;
+    height: 35px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.size{
+    display: flex;
+    justify-content: center;
+    height: 25px;
+    width: 25px;
+}
+.border{
+    background-color: #363545;
+    box-shadow: 0px 0px 3px 2px  #2C2C38;
+    height: 18%;
+    width: 81%;
+    position: absolute;
+    bottom: -10%;
+    right: 11% 
+
+}
+.meta{
+    height: 66%;
+    width: 17%;
+    background-color: #2D2D39;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    bottom: 14%;
+    right: 79%;
+}
+.my{
+    height: 70%;
+}
+.google{
+    height: 65%;
+    width: 19%;
+    background-color: #2D2D39;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 53%;
+    bottom: 13%;
+}
+.globe{
+    height: 70%;
+}
+.link{
+    height: 65%;
+    width: 19%;
+    background-color: #2D2D39;
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 27%;
+    bottom: 12%;
+}
+.slack{
+    height: 68%;
+    width: 19%;
+    background-color: #2D2D39;
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 2%;
+    bottom: 10%; 
+}
+.box-1{
+    height: 670px;
+    width: 100%;
+    background-color:#2D2D39 ;
+}
+.graph{
+    height: auto;
+    width: 28%;
+    position: absolute;
+    bottom: 10%;
+    font-family: sans-serif;
+    color: white;
+    right: 63%;
+}
+.graph-1{
+    height: auto;
+    width: 22%;
+    color: white;
+    position: absolute;
+    bottom: 1%;
+    left: 9%;
+    font-size: small;
+    font-family: sans-serif;
+}
+.math{
+    position: absolute;
+    bottom: -11%;
+    left: 9%;
+    font-family: sans-serif;
+    color: yellow;
+    font-size: x-large;
+}
+.math-1{
+    position: absolute;
+    bottom: -10%;
+    left: 9%;
+    color: white;
+    font-family: sans-serif;
+    font-size: x-small;
+}
+.math-2{
+    position: absolute;
+    bottom: -11%;
+    left: 23%;
+    font-family: sans-serif;
+    color: yellow;
+    font-size: x-large;
+}
+.math-3{
+    position: absolute;
+    bottom: -10%;
+    left: 23%;
+    color: white;
+    font-family: sans-serif;
+    font-size: x-small;
+}
+.math-4{
+    position: absolute;
+    bottom: -21%;
+    left: 9%;
+    font-family: sans-serif;
+    color: yellow;
+    font-size: x-large;
+}
+.math-5{
+    position: absolute;
+    bottom: -20%;
+    left: 9%;
+    font-family: sans-serif;
+    font-size: x-small;
+    color: white;
+}
+.math-6{
+    position: absolute;
+    bottom: -21%;
+    left: 23%;
+    font-family: sans-serif;
+    color: yellow;
+    font-size: x-large;
+}
+.math-7{
+    position: absolute;
+    bottom: -20%;
+    left: 23%;
+    font-family: sans-serif;
+    color: white;
+    font-size: x-small;
+}
+.uxx{
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 16%;
+    left: 18%;
+}
+.ux{
+    width: 12%;
+    border-radius: 5%;
+}
+.ux-1{
+    position: absolute;
+    right: 25%;
+    bottom: 20%;
+    color: white;
+    font-family: sans-serif;
+    font-size: medium;
+}
+.ux-2{
+    position: absolute;
+    right: 30%;
+    bottom: 17%;
+    color: white;
+    font-family: sans-serif;
+    font-size: small;
+}
+.cursor{
+    position: absolute;
+    right: 11%;
+    bottom: 22%;
+}
+.line-1{
+    height: 1px;
+    width: 37%;
+    background-color: white;
+    position: absolute;
+    bottom: 14%;
+    left: 54%;
+}
+.front{
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: -1%;
+    left: 29%;
+}
+.front-1{
+    width: 16%;
+    border-radius: 5%;
+}
+.front-2{
+    position: absolute;
+    right: 22%;
+    bottom: 1%;
+    color: white;
+    font-family: sans-serif;
+    font-size: medium;
+}
+.front-3{
+    position: absolute;
+    right: 31%;
+    bottom: -2%;
+    color: white;
+    font-family: sans-serif;
+    font-size: small;
+}
+.cursor-1{
+    position: absolute;
+    right: 11%;
+    bottom: 3%;
+}
+.line-2{
+    height: 1px;
+    width: 37%;
+    background-color: white;
+    position: absolute;
+    bottom: -2%;
+    left: 54%;
+}
+.app{
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: -18%;
+    left: 31%;
+}
+.app-1{
+    width: 17%;
+    border-radius: 7%;
+}
+.app-2{
+    position: absolute;
+    right: 21%;
+    bottom: -15%;
+    color: white;
+    font-family: sans-serif;
+    font-size: medium;
+}
+.app-3{
+    position: absolute;
+    right: 31%;
+    bottom: -18%;
+    color: white;
+    font-family: sans-serif;
+    font-size: small;
+}
+.cursor-2{
+    position: absolute;
+    right: 11%;
+    bottom: -13%;
+}
+.line-3{
+    height: 1px;
+    width: 37%;
+    background-color: white;
+    position: absolute;
+    bottom: -20%;
+    left: 54%;
+}
+.container-3{
+    display: inline-block;
+}
+.div{
+    background-color: #292934;
+    height: 35%;
+    width: 22%;
+    position: absolute;
+    bottom: -67%;
+    left: 16%;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+.design-1{
+    height: auto;
+    width: 18%;
+    position: relative;
+    bottom: -5%;
+    left: 5%;
+}
+.div-1{
+    background-color: #292934;
+    height: 35%;
+    width: 22%;
+    position: absolute;
+    bottom: -67%;
+    left: 39%;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+.design-2{
+    height: auto;
+    width: 18%;
+    position: relative;
+    left: 5%;
+    bottom: -5%;
+}
+.div-2{
+    background-color: #292934;
+    height: 35%;
+    width: 22%;
+    position: absolute;
+    bottom: -67%;
+    left: 63%;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+.img{
+    height: auto;
+    width: 18%;
+    position: relative;
+    left: 5%;
+    bottom: -5%;
+}
